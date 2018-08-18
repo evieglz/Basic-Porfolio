@@ -1,2 +1,6 @@
 # Basic-Porfolio
-Basic Portfolio 
+Basic Portfolio, using HTML and CSS, created a basic portfolio.
+
+
+link to deployed project underneath. 
+https://evieglz.github.io/Basic-Porfolio/
